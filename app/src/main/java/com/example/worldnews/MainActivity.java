@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         myFavoriteButton.setOnClickListener(v -> {
             Intent intent = new Intent(getApplication(), MyFavorites.class);
             startActivity(intent);
+
         });
 
 
