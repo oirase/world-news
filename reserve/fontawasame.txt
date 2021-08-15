@@ -1,0 +1,9 @@
+home
+cog
+star
+search
+book-open
+book
+tv
+file
+file-alt
