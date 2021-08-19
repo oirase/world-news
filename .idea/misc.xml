@@ -4,14 +4,18 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/yu/AndroidStudioProjects/WorldNews/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/yu/AndroidStudioProjects/WorldNews/app/src/main/res/drawable/ic_baseline_miscellaneous_services_24.xml" value="0.1" />
         <entry key="..\:/Users/yu/AndroidStudioProjects/WorldNews/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.20208333333333334" />
         <entry key="..\:/Users/yu/AndroidStudioProjects/WorldNews/app/src/main/res/drawable/ic_launcher_background.xml" value="0.20208333333333334" />
         <entry key="..\:/Users/yu/AndroidStudioProjects/WorldNews/app/src/main/res/layout/activity_config.xml" value="0.1" />
+        <entry key="..\:/Users/yu/AndroidStudioProjects/WorldNews/app/src/main/res/layout/activity_favourite.xml" value="0.19583333333333333" />
         <entry key="..\:/Users/yu/AndroidStudioProjects/WorldNews/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/yu/AndroidStudioProjects/WorldNews/app/src/main/res/layout/activity_my_favorite.xml" value="0.19444444444444445" />
         <entry key="..\:/Users/yu/AndroidStudioProjects/WorldNews/app/src/main/res/layout/activity_my_favorites.xml" value="0.19444444444444445" />
         <entry key="..\:/Users/yu/AndroidStudioProjects/WorldNews/app/src/main/res/layout/activity_search.xml" value="0.18055555555555555" />
         <entry key="..\:/Users/yu/AndroidStudioProjects/WorldNews/app/src/main/res/layout/bottom_menu.xml" value="0.18055555555555555" />
+        <entry key="..\:/Users/yu/AndroidStudioProjects/WorldNews/app/src/main/res/layout/favourite.xml" value="0.1" />
+        <entry key="..\:/Users/yu/AndroidStudioProjects/WorldNews/app/src/main/res/menu/bottom_menu.xml" value="0.19583333333333333" />
       </map>
     </option>
   </component>
